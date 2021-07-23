@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/RafaelGLeal/huddle-landing-page/)
-- Live Site URL: [Add live site URL here](https://rafaelgleal.github.io/huddle-landing-page/)
+- Solution URL: [Github](https://github.com/RafaelGLeal/huddle-landing-page/)
+- Live Site URL: [Github Pages](https://rafaelgleal.github.io/huddle-landing-page/)
 
 ## My process
 
